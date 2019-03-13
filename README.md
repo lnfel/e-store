@@ -1,2 +1,2 @@
-# e-store
+# estore
 Online Store for COMPANY
